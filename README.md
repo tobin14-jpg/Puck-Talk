@@ -22,7 +22,7 @@
 </p>
    
 ## Description
-  A web application developed for users to partake in debates everything Hockey related! The user will have their own profile and can create an opinion post as other users can add to their opinion posts and debate in all things Hockey related.
+  A web application developed for users to partake in debates everything Hockey related! The user will have their own profile and can create an opinion post as other users can add to their opinion posts and debate in all things Hockey related. The app can be accessed [Here](https://serene-island-90955.herokuapp.com/)
   
   
 🔍
@@ -42,7 +42,7 @@ This app has been developed with MERN, allowing the user to create an account, s
 - [Contact](#contact)
 
 ## Installation
-💾
+💾 No installation necessary 
 
 ## Usage
 The user is prompted to signup and create their own profile. The user can then comment on other users profile posts and add to their own opinion column. 
